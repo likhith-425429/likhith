@@ -165,7 +165,7 @@ experiences.</p>
 </form>
 </section>
 <footer>
-<p>© 2025 G.Sri Chaitanya | Connect on
+<p>© 2025 K.LIKHITH SAI REDDY | Connect on
 <a href="#">LinkedIn</a>, <a href="#">GitHub</a>
 </p>
 </footer>
