@@ -126,7 +126,7 @@ padding: 1rem 0;
 </nav>
 </header>
 <section id="home" class="hero">
-<h2>Hello, I'm Ganugula Sri Chaitanya</h2>
+<h2>Hello, I'm K.LIKHITH SAI REDDY</h2>
 <p>UI/UX Designer & Frontend Developer</p>
 <a href="#projects" class="btn">View My Work</a>
 </section>
